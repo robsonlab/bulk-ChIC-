@@ -22,4 +22,11 @@ How to run them:
   
 - Check your  running jobs by squeue --user=aantona
   
-- For each job you will receive emails when they START, END, FAIL 
+- For each job you will receive emails when they START, END, FAIL
+
+
+
+Conda environments :
+
+1. SCMO - https://pypi.org/project/singlecellmultiomics/ download from here within the conda env not from conda website
+2. 
